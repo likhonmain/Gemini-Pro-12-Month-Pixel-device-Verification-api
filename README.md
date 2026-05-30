@@ -3,7 +3,8 @@
 > **Base URL**: `https://pixel-verification-api.likhonmain.workers.dev`
 >
 > **Version**: 1.1
-
+**Owner**: `t.me/Tanvir124`
+> FOR API Key, Contact OWNER TANVIR
 ---
 
 ## Table of Contents
@@ -801,7 +802,7 @@ Your credentials are transmitted over HTTPS (encrypted in transit) and stored on
 ## Support
 
 For API key requests, credit purchases, or technical support:
-- **Telegram**: Contact the admin
+- **Telegram**: t.me/Tanvir124
 - **Include**: Your API key name (not the key itself) and order IDs for any issues
 
 ---
